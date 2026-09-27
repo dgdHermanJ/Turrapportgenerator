@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+
+# Turdata inneholder private bilder og posisjoner – skal ikke i git
+trips/
+*.zip
