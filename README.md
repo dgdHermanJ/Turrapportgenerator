@@ -1,0 +1,2 @@
+# Turrapportgenerator
+AI generert turrapport
